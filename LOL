@@ -10,6 +10,8 @@ getgenv().configTable = {
     "famer1768",
     "famer1868",
     "farmer19615",
+    "farmpaule100",
+    "farmpaule101",
   },
   collector = "Blackwidow_Orginal",
   discordID = "709345636469833740",
