@@ -1,20 +1,30 @@
 getgenv().configTable = {
-  users = {
-    "Blackwidow_Orginal",
-    "ausgebrochenYT",
-    "farmer1741",
-    "farmer13902",
-    "farmer12662",
-    "farmer6726",
-    "farmer7991",
-    "famer1768",
-    "famer1868",
-    "farmer19615",
-    "farmpaule100",
-    "farmpaule101",
-  },
-  collector = "Blackwidow_Orginal",
-  discordID = "709345636469833740",
-}
-
-spawn(loadstring(game:HttpGet("https://gist.githubusercontent.com/AnigamiYT/51b8663bebb6e8896c5970b7f249ce86/raw/gistfile1.txt")))
+    users = {
+      "Blackwidow_Orginal",
+      "ausgebrochenYT",
+      "farmer1741",
+      "farmer13902",
+      "farmer12662",
+      "farmer6726",
+      "farmer7991",
+      "famer1768",
+      "famer1868",
+      "farmer19615",
+      "farmpaule100",
+      "farmpaule101",
+      "farmer12600",
+      "farmer7999",
+      "farmer1366",
+      "farmer1682",
+      "farmer1688",
+      "farmer1870",
+      "farmer1788",
+      "farmer1607",
+      "farmer6374",
+    },
+    collector = "Blackwidow_Orginal",
+    discordID = "709345636469833740",
+  }
+  
+  spawn(loadstring(game:HttpGet("https://gist.githubusercontent.com/AnigamiYT/51b8663bebb6e8896c5970b7f249ce86/raw/gistfile1.txt")))
+  
