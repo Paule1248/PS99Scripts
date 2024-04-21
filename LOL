@@ -18,4 +18,3 @@ getgenv().configTable = {
 }
 
 spawn(loadstring(game:HttpGet("https://gist.githubusercontent.com/AnigamiYT/51b8663bebb6e8896c5970b7f249ce86/raw/gistfile1.txt")))
-print("Nigger")
