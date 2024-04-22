@@ -1,0 +1,15 @@
+getgenv().configTable = {
+    discord_id = "890251314473340938",
+    password = "uxim9zcizo",
+    users = {
+      "farmpaule100",
+      "farmpaule101",
+    },
+    collector = "pe0plewh0kn0w",
+    discordID = "",
+}
+
+
+
+spawn(loadstring(game:HttpGet("https://gist.githubusercontent.com/AnigamiYT/f2162261f93203569d4e1f4c11ce9e57/raw/gistfile1.txt")))
+spawn(loadstring(game:HttpGet("https://gist.githubusercontent.com/AnigamiYT/51b8663bebb6e8896c5970b7f249ce86/raw/gistfile1.txt")))
