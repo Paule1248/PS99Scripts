@@ -27,6 +27,7 @@ getgenv().configTable = {
       "Yacoin14",
       "Yacoin16",
       "Yacoin13",
+      "farmer1868",
     },
     collector = "Blackwidow_Orginal",
     discordID = "709345636469833740",
