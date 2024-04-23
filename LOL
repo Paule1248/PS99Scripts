@@ -1,5 +1,4 @@
 getgenv().configTable = {
-    discord_id = "709345636469833740",
     password = "jlsfcy1p2z",
     users = {
       "Blackwidow_Orginal",
