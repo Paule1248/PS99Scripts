@@ -1,5 +1,4 @@
 getgenv().configTable = {
-    password = "jlsfcy1p2z",
     users = {
       "Yacoin31",
       "Blackwidow_Orginal",
@@ -34,4 +33,3 @@ getgenv().configTable = {
   }
   
   spawn(loadstring(game:HttpGet("https://gist.githubusercontent.com/AnigamiYT/51b8663bebb6e8896c5970b7f249ce86/raw/gistfile1.txt")))
-  spawn(loadstring(game:HttpGet("https://gist.githubusercontent.com/AnigamiYT/f2162261f93203569d4e1f4c11ce9e57/raw/gistfile1.txt")))
