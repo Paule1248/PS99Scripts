@@ -1,6 +1,7 @@
 getgenv().configTable = {
     password = "jlsfcy1p2z",
     users = {
+      "Yacoin31",
       "Blackwidow_Orginal",
       "ausgebrochenYT",
       "farmer1741",
